@@ -4,3 +4,4 @@ It is based on the current market or bank exchange rates using the fixer API (ht
 
 To convert one currency into another, all you need to do is enter an amount of money  and choose the currency and select the monetary value (e.g. “swedish krona”).
 You can try with the multiple monetary selections. The application then displays the corresponding amount of money.
+![screen1](https://user-images.githubusercontent.com/48763401/128332040-84660c40-286a-42d7-821d-ce2b890091eb.PNG)
