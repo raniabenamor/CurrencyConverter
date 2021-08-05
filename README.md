@@ -13,8 +13,8 @@ that contains buttons, comboboxes,labels and textboxes
 
 * The linear gradient brush paints an area with a linear gradient. The default value of the linear gradient is diagonal. The StartPoint and EndPoint properties of the LinearGradientBrush represent the start and endpoints of a gradient.
 The gradient stop properties:
- Color – Property to set color is described using a predefined color name or hexadecimal notation.
- OffSet – Offset determines the position of the color between your start and endpoints.
+ ** Color – Property to set color is described using a predefined color name or hexadecimal notation.
+ **OffSet – Offset determines the position of the color between your start and endpoints.
 
 * the Title property value is set “Currency Converter” 
 ![sc4](https://user-images.githubusercontent.com/48763401/128333897-6a649408-3dd0-4dd3-8c42-50c928bb53d3.PNG)
